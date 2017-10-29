@@ -3,7 +3,7 @@
 	"node": "https://wallet.oxycoin.io",
 	"nodepay": "https://wallet.oxycoin.io",
 	"pubkey": "0927dc2caa6d2bc2b516fd499562b669027629da75ddd44304352b6cd735fa26",
-	"percentage": 50,
+	"percentage": 80,
 	"logfile": "poollogs.json",
 	"minpayout": 1.0,
 	"secret": "SECRET",
